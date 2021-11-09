@@ -112,7 +112,7 @@
     "mongoose": ">=6.0.12"
   },
   "dependencies": {
-    "https://github.com/jdcumptonjr/mongoose-common": ">=0.40.0",
+    "jdcumptonjr/mongoose-common": ">=0.40.0",
     "lodash": ">=4.17.21",
     "stream-read": ">=1.1.2"
   },
